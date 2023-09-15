@@ -1,5 +1,5 @@
 # Bias-Reduction
---- GENERAL INFORMATION ---
+# General Information
 For this algorithm, bias refers to the diference between the average of predictions of a NN and the real values we try to predict.
 This algorithm receives as an input a 2 csv files:
 
