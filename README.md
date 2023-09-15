@@ -7,7 +7,7 @@ exported_train = a csv that contains the outputs of a NN after passing all the t
 
 exported_test = a csv that contains the outputs of a NN after passing all the testing data into it. first column contains the outputs of the network and the second one contains the real values.
 
-## About the given CSV files and the images
+## The given CSV files and the images
 The example csv files here are the data from the EU-USD algorithm, that can be found in the repositories section in my github.
 The image files show the estimations before and after applying this algorithm, as well as the precise amount of bias that has been reduced (spoiler: not so much).
 
