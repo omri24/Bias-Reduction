@@ -9,9 +9,15 @@ The example CSV files here are the data from the EU-USD algorithm, that can be f
 ## The results
 The images show the estimations before and after applying this algorithm, as well as the precise amount of bias that has been reduced (spoiler: not so much).
 
+Estimations before bias reduction:
+
 ![estimations before bias reduction algorithm](https://github.com/omri24/Bias-Reduction/assets/115406253/b56e9524-12aa-4e18-bf10-e069276761aa)
 
+Estimations after bias reduction:
+
 ![estimations after applying the bias reduction algorithm](https://github.com/omri24/Bias-Reduction/assets/115406253/e5cd714b-36d2-4c94-a7f9-40916763da8f)
+
+Bias improvement:
 
 ![output numbers of the algorithm](https://github.com/omri24/Bias-Reduction/assets/115406253/51c423b2-6fd0-4a0f-a3d6-e495c3709737)
 
